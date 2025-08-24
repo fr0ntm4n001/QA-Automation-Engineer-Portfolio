@@ -43,17 +43,38 @@ This portfolio showcases practical projects that demonstrate my ability to ensur
 
 **Tools & Frameworks:**
 
-- <img src="https://cdn.worldvectorlogo.com/logos/cypress.svg" height="72" style="max-width: 100%; height: auto; max-height: 72px;"> Cypress
-- <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="72" style="max-width: 100%; height: auto; max-height: 72px;"> Postman
-- <img src="https://jmeter.apache.org/images/jmeter_square.png" height="72" style="max-width: 100%; height: auto; max-height: 72px;"> JMeter
-- <img src="https://appium.io/docs/en/latest/assets/appium-logo-horiz.png" height="72" style="max-width: 100%; height: auto; max-height: 72px;"> Appium
-- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" height="72" style="max-width: 100%; height: auto; max-height: 72px;"> Selenium
-- <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" height="72" style="max-width: 100%; height: auto; max-height: 72px;"> GitHub Actions
-- <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" height="72" style="max-width: 100%; height: auto; max-height: 72px;"> Jenkins
-- <img src="https://www.docker.com/wp-content/uploads/2023/08/logo-guide-logos-1.svg" height="72" style="max-width: 100%; height: auto; max-height: 72px;"> Docker
-- <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="72" style="max-width: 100%; height: auto; max-height: 72px;"> Git
-- <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" height="72" style="max-width: 100%; height: auto; max-height: 72px;"> Jira
-
+<p align="left">
+  <a href="https://www.cypress.io/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/cypress.svg" height="72" style="max-width: 100%; height: auto; max-height: 72px;"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="72" style="max-width: 100%; height: auto; max-height: 72px;"/>
+  </a>
+  <a href="https://jmeter.apache.org/" target="_blank">
+    <img src="https://jmeter.apache.org/images/jmeter_square.png" height="72" style="max-width: 100%; height: auto; max-height: 72px;"/>
+  </a>
+  <a href="https://appium.io/" target="_blank">
+    <img src="https://appium.io/docs/en/latest/assets/appium-logo-horiz.png" height="72" style="max-width: 100%; height: auto; max-height: 72px;"/>
+  </a>
+  <a href="https://www.selenium.dev/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" height="72" style="max-width: 100%; height: auto; max-height: 72px;"/>
+  </a>
+  <a href="https://github.com/features/actions" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" height="72" style="max-width: 100%; height: auto; max-height: 72px;"/>
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" height="72" style="max-width: 100%; height: auto; max-height: 72px;"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://www.docker.com/wp-content/uploads/2023/08/logo-guide-logos-1.svg" height="72" style="max-width: 100%; height: auto; max-height: 72px;"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="72" style="max-width: 100%; height: auto; max-height: 72px;"/>
+  </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" height="72" style="max-width: 100%; height: auto; max-height: 72px;"/>
+  </a>
+</p>
 **Testing Types & Practices:**
 
 - ✅ Functional Testing & Test Case Design
