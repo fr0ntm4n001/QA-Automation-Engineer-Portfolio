@@ -41,17 +41,18 @@ This portfolio showcases practical projects that demonstrate my ability to ensur
 
 ## 🛠️ Skills Demonstrated
 
-**Tools & Frameworks:**  
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)  
-![JMeter](https://img.shields.io/badge/-JMeter-D22128?logo=apache&logoColor=white)  
-![Appium](https://img.shields.io/badge/-Appium-663399?logo=appium&logoColor=white)  
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
+**Tools & Frameworks:**
+
+- <img src="https://cdn.worldvectorlogo.com/logos/cypress.svg" height="72" style="max-width: 100%; height: auto; max-height: 72px;"> Cypress
+- <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="72" style="max-width: 100%; height: auto; max-height: 72px;"> Postman
+- <img src="https://jmeter.apache.org/images/jmeter_square.png" height="72" style="max-width: 100%; height: auto; max-height: 72px;"> JMeter
+- <img src="https://appium.io/docs/en/latest/assets/appium-logo-horiz.png" height="72" style="max-width: 100%; height: auto; max-height: 72px;"> Appium
+- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" height="72" style="max-width: 100%; height: auto; max-height: 72px;"> Selenium
+- <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" height="72" style="max-width: 100%; height: auto; max-height: 72px;"> GitHub Actions
+- <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" height="72" style="max-width: 100%; height: auto; max-height: 72px;"> Jenkins
+- <img src="https://www.docker.com/wp-content/uploads/2023/08/logo-guide-logos-1.svg" height="72" style="max-width: 100%; height: auto; max-height: 72px;"> Docker
+- <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="72" style="max-width: 100%; height: auto; max-height: 72px;"> Git
+- <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" height="72" style="max-width: 100%; height: auto; max-height: 72px;"> Jira
 
 **Testing Types & Practices:**
 
