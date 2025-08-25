@@ -145,6 +145,7 @@ This portfolio showcases practical projects that demonstrate my ability to ensur
 </div>
 
 <br>
+
 **Testing Types & Practices:**
 
 - ✅ Functional Testing & Test Case Design
