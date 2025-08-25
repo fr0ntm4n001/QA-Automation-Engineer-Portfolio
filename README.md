@@ -43,7 +43,6 @@ This portfolio showcases practical projects that demonstrate my ability to ensur
 
 **Tools ,Frameworks & Languages:**
 
-
 <div align="center">
   <!-- Development Tools -->
   <a href="https://www.gnu.org/software/bash/" target="_blank" style="text-decoration: none; border: none;">
@@ -145,7 +144,6 @@ This portfolio showcases practical projects that demonstrate my ability to ensur
   </a>
 </div>
 
-
 **Testing Types & Practices:**
 
 - ✅ Functional Testing & Test Case Design
@@ -164,14 +162,8 @@ This portfolio showcases practical projects that demonstrate my ability to ensur
 - Follow setup instructions to **run tests locally**.
 - Review **test reports & bug logs** for insights.
 
-
-
 ## 📬 Contact
 
-- 📧 Email: *your.email@example.com*
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-
-  
 <div align="left">
   <!-- LinkedIn -->
    &nbsp;
@@ -188,9 +180,7 @@ This portfolio showcases practical projects that demonstrate my ability to ensur
          src="https://github.com/user-attachments/assets/3f1c7323-8a5b-4149-b35c-faccaccd22a6" />
   </a>
 
-
 </div>
-
 
 ## 📄 License
 
