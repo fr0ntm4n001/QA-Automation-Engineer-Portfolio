@@ -44,108 +44,125 @@ This portfolio showcases practical projects that demonstrate my ability to ensur
 **Tools & Frameworks:**
 # Tools & Technologies
 
+# Tools & Technologies
+
 <div align="center">
+  
   <!-- Development Tools -->
-  <a href="https://www.gnu.org/software/bash/" target="_blank" style="text-decoration: none; border: none;">
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; border: none;">
     <img width="91" height="91" 
          style="max-width: 100%; height: auto; max-height: 91px; border: none;" 
          alt="Bash" 
          src="https://github.com/user-attachments/assets/8402f466-2d13-4691-8c0c-7340c1a193c6" />
   </a>
-  <a href="https://clickup.com/" target="_blank" style="text-decoration: none; border: none;">
+  
+  <a href="https://clickup.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; border: none;">
     <img width="91" height="91" 
          style="max-width: 100%; height: auto; max-height: 91px; border: none;" 
          alt="ClickUp" 
          src="https://github.com/user-attachments/assets/1f43d4bc-d25f-49de-a7af-0c97fd2d7390" />
   </a>
-  <a href="https://cypress.io/" target="_blank" style="text-decoration: none; border: none;">
+  
+  <a href="https://cypress.io/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; border: none;">
     <img width="91" height="91" 
          style="max-width: 100%; height: auto; max-height: 91px; border: none;" 
          alt="Cypress" 
          src="https://github.com/user-attachments/assets/efecd43c-775d-4c82-a19e-3733a6d71ce8" />
   </a>
-  <a href="https://www.mysql.com/" target="_blank" style="text-decoration: none; border: none;">
+  
+  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; border: none;">
     <img width="91" height="91" 
          style="max-width: 100%; height: auto; max-height: 91px; border: none;" 
          alt="SQL Database" 
          src="https://github.com/user-attachments/assets/b5adb4d9-595e-470b-a5ad-5708f3af2644" />
   </a>
-  <a href="https://www.docker.com/" target="_blank" style="text-decoration: none; border: none;">
+  
+  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; border: none;">
     <img width="91" height="91" 
          style="max-width: 100%; height: auto; max-height: 91px; border: none;" 
          alt="Docker" 
          src="https://github.com/user-attachments/assets/a3852854-7da9-448e-8235-db3eb31cb310" />
   </a>
-  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none; border: none;">
+  
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; border: none;">
     <img width="91" height="91" 
          style="max-width: 100%; height: auto; max-height: 91px; border: none;" 
          alt="Git" 
          src="https://github.com/user-attachments/assets/942882a9-57f1-40e4-9949-d52c25e916f3" />
   </a>
-  <a href="https://gitlab.com/" target="_blank" style="text-decoration: none; border: none;">
+  
+  <a href="https://gitlab.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; border: none;">
     <img width="91" height="91" 
          style="max-width: 100%; height: auto; max-height: 91px; border: none;" 
          alt="GitLab" 
          src="https://github.com/user-attachments/assets/5f965ef5-025a-4477-a28c-dfe65cc79642" />
   </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" style="text-decoration: none; border: none;">
+  
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noopener noreferrer" style="text-decoration: none; border: none;">
     <img width="91" height="91" 
          style="max-width: 100%; height: auto; max-height: 91px; border: none;" 
          alt="Jira" 
          src="https://github.com/user-attachments/assets/aabaf775-1c8d-46ba-a13e-2a07597a86be" />
   </a>
+  
   <!-- Testing & Programming -->
-  <a href="https://testng.org/" target="_blank" style="text-decoration: none; border: none;">
+  <a href="https://testng.org/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; border: none;">
     <img width="91" height="91" 
          style="max-width: 100%; height: auto; max-height: 91px; border: none;" 
          alt="TestNG" 
          src="https://github.com/user-attachments/assets/e43d65da-79a8-46e9-839c-12f81883910f" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none; border: none;">
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" style="text-decoration: none; border: none;">
     <img width="91" height="91" 
          style="max-width: 100%; height: auto; max-height: 91px; border: none;" 
          alt="JavaScript" 
          src="https://github.com/user-attachments/assets/c6ce71c8-1d1e-457c-832a-6d727c4ea05c" />
   </a>
-  <a href="https://reminders.com/" target="_blank" style="text-decoration: none; border: none;">
+  
+  <a href="https://reminders.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; border: none;">
     <img width="91" height="91" 
          style="max-width: 100%; height: auto; max-height: 91px; border: none;" 
          alt="Reminders" 
          src="https://github.com/user-attachments/assets/6042ebbd-119e-49b2-a13c-8d9a029d4646" />
   </a>
-  <a href="https://playwright.dev/" target="_blank" style="text-decoration: none; border: none;">
+  
+  <a href="https://playwright.dev/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; border: none;">
     <img width="91" height="91" 
          style="max-width: 100%; height: auto; max-height: 91px; border: none;" 
          alt="Playwright" 
          src="https://github.com/user-attachments/assets/59e030a2-8d11-46ca-84b1-6eef5bc25c02" />
   </a>
-  <a href="https://www.postman.com/" target="_blank" style="text-decoration: none; border: none;">
+  
+  <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; border: none;">
     <img width="91" height="91" 
          style="max-width: 100%; height: auto; max-height: 91px; border: none;" 
          alt="Postman" 
          src="https://github.com/user-attachments/assets/0e214fb4-9210-4741-922b-2a19cc81191b" />
   </a>
-  <a href="https://selenium.dev/" target="_blank" style="text-decoration: none; border: none;">
+  
+  <a href="https://selenium.dev/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; border: none;">
     <img width="91" height="91" 
          style="max-width: 100%; height: auto; max-height: 91px; border: none;" 
          alt="Selenium" 
          src="https://github.com/user-attachments/assets/2f386946-93cc-4b96-88df-b6848025278d" />
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank" style="text-decoration: none; border: none;">
+  
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; border: none;">
     <img width="91" height="91" 
          style="max-width: 100%; height: auto; max-height: 91px; border: none;" 
          alt="VS Code" 
          src="https://github.com/user-attachments/assets/84f74866-4048-45e0-8c09-77a225e88929" />
   </a>
-  <a href="https://chat.openai.com/" target="_blank" style="text-decoration: none; border: none;">
+  
+  <a href="https://chat.openai.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; border: none;">
     <img width="91" height="91" 
          style="max-width: 100%; height: auto; max-height: 91px; border: none;" 
          alt="ChatGPT" 
          src="https://github.com/user-attachments/assets/53f63ae7-7f46-46e0-b2e1-cfd9a1c523da" />
   </a>
+
 </div>
-
-
 
 
 
