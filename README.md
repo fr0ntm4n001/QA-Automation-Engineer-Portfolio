@@ -170,7 +170,27 @@ This portfolio showcases practical projects that demonstrate my ability to ensur
 
 - 📧 Email: *your.email@example.com*
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+# Contact Me
 
+<div align="center">
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer" style="text-decoration: none; border: none;">
+    <img width="91" height="91" 
+         style="max-width: 100%; height: auto; max-height: 91px; border: none;" 
+         alt="LinkedIn" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </a>
+  
+  <!-- Gmail -->
+  <a href="mailto:your.email@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none; border: none;">
+    <img width="91" height="91" 
+         style="max-width: 100%; height: auto; max-height: 91px; border: none;" 
+         alt="Gmail" 
+         src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+  </a>
+
+</div>
 ---
 
 ## 📄 License
