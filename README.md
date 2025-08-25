@@ -42,39 +42,44 @@ This portfolio showcases practical projects that demonstrate my ability to ensur
 ## 🛠️ Skills Demonstrated
 
 **Tools & Frameworks:**
+<img width="455" height="514" alt="bash" src="https://github.com/user-attachments/assets/8402f466-2d13-4691-8c0c-7340c1a193c6" />
+<img width="800" height="961" alt="ClickUp_idfty-HNVU_1" src="https://github.com/user-attachments/assets/1f43d4bc-d25f-49de-a7af-0c97fd2d7390" />
+<img width="320" height="320" alt="CYPRESS" src="https://github.com/user-attachments/assets/efecd43c-775d-4c82-a19e-3733a6d71ce8" />
 
-<p align="left">
-  <a href="https://www.cypress.io/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/cypress.svg" height="72" style="max-width: 100%; height: auto; max-height: 72px;"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="72" style="max-width: 100%; height: auto; max-height: 72px;"/>
-  </a>
-  <a href="https://jmeter.apache.org/" target="_blank">
-    <img src="https://jmeter.apache.org/images/jmeter_square.png" height="72" style="max-width: 100%; height: auto; max-height: 72px;"/>
-  </a>
-  <a href="https://appium.io/" target="_blank">
-    <img src="https://appium.io/docs/en/latest/assets/appium-logo-horiz.png" height="72" style="max-width: 100%; height: auto; max-height: 72px;"/>
-  </a>
-  <a href="https://www.selenium.dev/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" height="72" style="max-width: 100%; height: auto; max-height: 72px;"/>
-  </a>
-  <a href="https://github.com/features/actions" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" height="72" style="max-width: 100%; height: auto; max-height: 72px;"/>
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" height="72" style="max-width: 100%; height: auto; max-height: 72px;"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://www.docker.com/wp-content/uploads/2023/08/logo-guide-logos-1.svg" height="72" style="max-width: 100%; height: auto; max-height: 72px;"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="72" style="max-width: 100%; height: auto; max-height: 72px;"/>
-  </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" height="72" style="max-width: 100%; height: auto; max-height: 72px;"/>
-  </a>
-</p>
+<img width="1600" height="1600" alt="database" src="https://github.com/user-attachments/assets/b5adb4d9-595e-470b-a5ad-5708f3af2644" />
+<img width="180" height="180" alt="docker" src="https://github.com/user-attachments/assets/a3852854-7da9-448e-8235-db3eb31cb310" />
+
+
+<img width="512" height="512" alt="git" src="https://github.com/user-attachments/assets/942882a9-57f1-40e4-9949-d52c25e916f3" />
+
+
+<img width="600" height="600" alt="gitlab" src="https://github.com/user-attachments/assets/5f965ef5-025a-4477-a28c-dfe65cc79642" />
+<img width="1600" height="1200" alt="jira" src="https://github.com/user-attachments/assets/aabaf775-1c8d-46ba-a13e-2a07597a86be" />
+
+<img width="1024" height="2052" alt="pngwing com (1)" src="https://github.com/user-attachments/assets/e43d65da-79a8-46e9-839c-12f81883910f" />
+
+<img width="800" height="800" alt="js" src="https://github.com/user-attachments/assets/c6ce71c8-1d1e-457c-832a-6d727c4ea05c" />
+
+
+<img width="581" height="459" alt="PikPng com_reminder-png_755582" src="https://github.com/user-attachments/assets/6042ebbd-119e-49b2-a13c-8d9a029d4646" />
+
+
+<img width="2000" height="1500" alt="playwright-seeklogo" src="https://github.com/user-attachments/assets/59e030a2-8d11-46ca-84b1-6eef5bc25c02" />
+
+<img width="1600" height="1200" alt="postman-logo-astronaut-orange-circle-flat-design" src="https://github.com/user-attachments/assets/0e214fb4-9210-4741-922b-2a19cc81191b" />
+
+<img width="512" height="512" alt="selenim" src="https://github.com/user-attachments/assets/2f386946-93cc-4b96-88df-b6848025278d" />
+
+
+<img width="450" height="447" alt="vscode" src="https://github.com/user-attachments/assets/84f74866-4048-45e0-8c09-77a225e88929" />
+
+
+<img width="800" height="800" alt="gpt" src="https://github.com/user-attachments/assets/53f63ae7-7f46-46e0-b2e1-cfd9a1c523da" />
+
+
+
+
+
 **Testing Types & Practices:**
 
 - ✅ Functional Testing & Test Case Design
@@ -93,7 +98,7 @@ This portfolio showcases practical projects that demonstrate my ability to ensur
 - Follow setup instructions to **run tests locally**.
 - Review **test reports & bug logs** for insights.
 
----
+
 
 ## 📬 Contact
 
