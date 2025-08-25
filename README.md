@@ -41,8 +41,7 @@ This portfolio showcases practical projects that demonstrate my ability to ensur
 
 ## 🛠️ Skills Demonstrated
 
-**Tools & Frameworks:**
-# Tools & Technologies
+**Tools ,Frameworks & Languages:**
 
 
 <div align="center">
