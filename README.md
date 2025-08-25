@@ -10,7 +10,7 @@ This portfolio showcases practical projects that demonstrate my ability to ensur
 ## 📌 Quick Links
 
 - [Projects](#-projects)
-- [Skills Demonstrated](#-skills-demonstrated)
+- [Skills Demonstrated](#-Skills-demonstrated)
 - [How to Explore](#-how-to-explore)
 - [Contact](#-contact)
 
@@ -148,7 +148,6 @@ This portfolio showcases practical projects that demonstrate my ability to ensur
          src="https://github.com/user-attachments/assets/96a2f9ff-17c2-40c4-85f6-4e8bfb3065ab" />
   </a>
 
-   
 </div>
 
 <br>
