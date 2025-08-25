@@ -167,7 +167,7 @@ This portfolio showcases practical projects that demonstrate my ability to ensur
 
 ## 📂 How to Explore
 
-- Navigate to each project folder for detailed **READMEs, test cases, and documentation**.
+- Navigate to each project folder for detailed **READMEs, test cases, documentation, workflow, and work ethics**.
 - Follow setup instructions to **run tests locally**.
 - Review **test reports & bug logs** for insights.
 
