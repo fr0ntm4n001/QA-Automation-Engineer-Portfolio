@@ -182,7 +182,7 @@ This portfolio showcases practical projects that demonstrate my ability to ensur
   </a>
   &nbsp;&nbsp;
   <!-- Gmail -->
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=your.email@gmail.com&su=Hello&body=Hi there!" target="_blank" rel="noopener noreferrer">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=your.email@gmail.com" target="_blank" rel="noopener noreferrer">
     <img width="auto" height="72" 
          alt="Gmail" 
          src="https://github.com/user-attachments/assets/3f1c7323-8a5b-4149-b35c-faccaccd22a6" />
