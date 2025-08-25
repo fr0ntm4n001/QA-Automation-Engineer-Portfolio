@@ -10,7 +10,7 @@ This portfolio showcases practical projects that demonstrate my ability to ensur
 ## 📌 Quick Links
 
 - [Projects](#-projects)
-- [Skills Demonstrated](#-skills-demonstrated)
+- [Skills Demonstrated](#%EF%B8%8F-skills-demonstrated)
 - [How to Explore](#-how-to-explore)
 - [Contact](#-contact)
 
