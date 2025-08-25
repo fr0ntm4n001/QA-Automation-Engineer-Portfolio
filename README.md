@@ -94,10 +94,10 @@ This portfolio showcases practical projects that demonstrate my ability to ensur
          src="https://github.com/user-attachments/assets/aabaf775-1c8d-46ba-a13e-2a07597a86be" />
   </a>
   <!-- Testing & Programming -->
-  <a href="https://testng.org/" target="_blank" style="text-decoration: none; border: none;">
+  <a href="https://jmeter.apache.org/" target="_blank" style="text-decoration: none; border: none;">
     <img width="91" height="91" 
          style="max-width: 100%; height: auto; max-height: 91px; border: none;" 
-         alt="TestNG" 
+         alt="jmeter" 
          src="https://github.com/user-attachments/assets/e43d65da-79a8-46e9-839c-12f81883910f" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none; border: none;">
@@ -106,10 +106,10 @@ This portfolio showcases practical projects that demonstrate my ability to ensur
          alt="JavaScript" 
          src="https://github.com/user-attachments/assets/c6ce71c8-1d1e-457c-832a-6d727c4ea05c" />
   </a>
-  <a href="https://reminders.com/" target="_blank" style="text-decoration: none; border: none;">
+  <a href="https://www.npmjs.com/" target="_blank" style="text-decoration: none; border: none;">
     <img width="91" height="91" 
          style="max-width: 100%; height: auto; max-height: 91px; border: none;" 
-         alt="Reminders" 
+         alt="npmjs" 
          src="https://github.com/user-attachments/assets/6042ebbd-119e-49b2-a13c-8d9a029d4646" />
   </a>
   <a href="https://playwright.dev/" target="_blank" style="text-decoration: none; border: none;">
