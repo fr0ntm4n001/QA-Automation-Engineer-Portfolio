@@ -172,11 +172,22 @@ This portfolio showcases practical projects that demonstrate my ability to ensur
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
 
   
+<div align="left">
   <!-- LinkedIn -->
-<img width="512" height="512" alt="linkedin" src="https://github.com/user-attachments/assets/be222ed3-fec6-4f0e-b14b-bf80d8978079" />
-<img width="2560" height="1920" alt="210137858-75ba249f-b3b1-4a67-97d0-c3df6c828320" src="https://github.com/user-attachments/assets/3f1c7323-8a5b-4149-b35c-faccaccd22a6" />
-
+   &nbsp;
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer">
+    <img width="auto" height="72" 
+         alt="LinkedIn" 
+         src="https://github.com/user-attachments/assets/be222ed3-fec6-4f0e-b14b-bf80d8978079" />
+  </a>
+  &nbsp;&nbsp;
   <!-- Gmail -->
+  <a href="mailto:your.email@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img width="auto" height="72" 
+         alt="Gmail" 
+         src="https://github.com/user-attachments/assets/3f1c7323-8a5b-4149-b35c-faccaccd22a6" />
+  </a>
+</div>
 
 
 ## 📄 License
