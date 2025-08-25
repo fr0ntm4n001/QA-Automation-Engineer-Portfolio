@@ -142,7 +142,11 @@ This portfolio showcases practical projects that demonstrate my ability to ensur
          alt="ChatGPT" 
          src="https://github.com/user-attachments/assets/53f63ae7-7f46-46e0-b2e1-cfd9a1c523da" />
   </a>
-<img width="1600" height="1200" alt="slack-logo-colorful-modern-icon-design" src="https://github.com/user-attachments/assets/96a2f9ff-17c2-40c4-85f6-4e8bfb3065ab" />
+  <!-- Slack -->
+  <a href="https://slack.com/" target="_blank" rel="noopener noreferrer">
+    <img height="72" alt="Slack" 
+         src="https://github.com/user-attachments/assets/96a2f9ff-17c2-40c4-85f6-4e8bfb3065ab" />
+  </a>
 
    
 </div>
