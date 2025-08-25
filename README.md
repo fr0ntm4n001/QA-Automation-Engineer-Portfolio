@@ -144,7 +144,7 @@ This portfolio showcases practical projects that demonstrate my ability to ensur
   </a>
   <!-- Slack -->
   <a href="https://slack.com/" target="_blank" style="text-decoration: none; border: none;">
-    <img width="91" height="91" 
+    <img width="95" height="97" 
          style="max-width: 100%; height: auto; max-height: 91px; border: none;" alt="Slack" 
          src="https://github.com/user-attachments/assets/96a2f9ff-17c2-40c4-85f6-4e8bfb3065ab" />
   </a>
