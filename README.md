@@ -57,11 +57,14 @@ This portfolio showcases practical projects that demonstrate my ability to ensur
          alt="ClickUp" 
          src="https://github.com/user-attachments/assets/1f43d4bc-d25f-49de-a7af-0c97fd2d7390" />
   </a>
+
+
+
   <a href="https://cypress.io/" target="_blank" style="text-decoration: none; border: none;">
     <img width="91" height="91" 
          style="max-width: 100%; height: auto; max-height: 91px; border: none;" 
          alt="Cypress" 
-         src="https://github.com/user-attachments/assets/efecd43c-775d-4c82-a19e-3733a6d71ce8" />
+         src="https://github.com/user-attachments/assets/f7a82535-ef8e-469e-9910-6c11f22e3bae" />
   </a>
   <a href="https://www.mysql.com/" target="_blank" style="text-decoration: none; border: none;">
     <img width="91" height="91" 
