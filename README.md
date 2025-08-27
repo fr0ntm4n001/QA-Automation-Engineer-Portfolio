@@ -149,6 +149,12 @@ This portfolio showcases practical projects that demonstrate my ability to ensur
          src="https://github.com/user-attachments/assets/96a2f9ff-17c2-40c4-85f6-4e8bfb3065ab" />
   </a>
 
+<a href="https://jam.dev/" target="_blank" style="text-decoration: none; border: none;">
+<img width="100" height="100" 
+         style="max-width: 100%; height: 70px; width:140px ; max-height: 95px; border: none;"alt="jam.dev" src="https://github.com/user-attachments/assets/bd46f760-8e5c-469b-aecb-6cc7c4d42dc6" />
+</a>
+
+
 </div>
 
 <br>
