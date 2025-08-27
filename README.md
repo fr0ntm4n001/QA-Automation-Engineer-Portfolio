@@ -3,12 +3,15 @@
 Welcome to my Software Quality Assurance (SQA) portfolio!  
 
 <p align="justify"">
-👋 I’m a detail-oriented <b>QA Engineer</b> , currently working as a Lead QA at DQ , with <b> 3 + years of hands-on experience </b> in both <b> manual </b>and <b>automation </b>testing of web and mobile applications. Skilled in designing test strategies, writing comprehensive test cases,documenting detailed bug reports and executing automated tests to validate functionality, performance, and reliability using industry-standard tools (Playwright / Cypress / Selenium). Proficient in testing RESTful APIs with Postman and experienced in integrating automated tests into CI/CD pipelines using GitLab CI and GitHub Actions, leveraging DevOps practices and close collaboration with DevOps teams to streamline CI/CD processes.  
-
+👋 I’m a detail-oriented <b>QA Engineer</b> , currently working as a Lead QA at DQ , with <b> 3 + years of hands-on experience </b> in both <b> manual </b>and <b>automation </b>testing of web and mobile applications. 
+<p align="justify"">   
+Skilled in designing test strategies, writing comprehensive test cases,documenting detailed bug reports and executing automated tests to validate functionality, performance, and reliability using industry-standard tools (Playwright / Cypress / Selenium). Proficient in testing RESTful APIs with Postman and experienced in integrating automated tests into CI/CD pipelines using GitLab CI and GitHub Actions, leveraging DevOps practices and close collaboration with DevOps teams to streamline CI/CD processes.  
+</p>
+<p align="justify"">
 Furthermore, I am equipped with strong analytical skills, a solid understanding of STLC/SDLC, and hands-on experience with Agile methodologies 📈. My ability to collaborate effectively across teams ensures that stakeholders, developers, and QA remain aligned 🤝, while my focus on continuous improvement enables me to optimize testing processes, identify critical bugs, and drive high-quality, reliable product releases 🚀 .
-
-This portfolio showcases practical projects that reflect my hands-on approach, problem-solving mindset, and commitment to delivering reliable software quality across web, API, and mobile applications.
-
+</p>
+<p align="justify"">
+✨ This portfolio showcases practical projects that reflect my hands-on approach, problem-solving mindset, and commitment to delivering reliable software quality across web, API, and mobile applications.
 </p>
 
 
