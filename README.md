@@ -31,7 +31,7 @@ Furthermore, I am equipped with strong analytical skills, a solid understanding 
    - Automated **end-to-end UI flows** (login, checkout, error handling) using **Cypress**.
    - Integrated tests into **CI/CD pipelines** for continuous feedback.
    - Conducted **performance testing** with **JMeter**, identifying bottlenecks in checkout flow.  
-     [🔎 View Details](repositories/AI-Voice-Assistant-App-Full-Scope-QA/)
+     [🔎 View Details](https://github.com/fr0ntm4n001/AI-Voice-Assistant-App-Full-Scope-QA)
 
 2. **API Testing**
 
