@@ -26,7 +26,7 @@ Furthermore, I am equipped with strong analytical skills, a solid understanding 
 
 ## 🚀 Projects
 
-1. **E-Commerce Website Testing**
+1. **AI Voice Assistant App Full Scope QA**
 
    - Automated **end-to-end UI flows** (login, checkout, error handling) using **Cypress**.
    - Integrated tests into **CI/CD pipelines** for continuous feedback.
