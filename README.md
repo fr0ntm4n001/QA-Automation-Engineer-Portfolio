@@ -43,7 +43,7 @@ Furthermore, I am equipped with strong analytical skills, a solid understanding 
 
 ##
 
-**More projects coming soon...**
+_More projects coming soon..._
 
 ---
 
