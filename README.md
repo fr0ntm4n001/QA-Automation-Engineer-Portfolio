@@ -164,7 +164,7 @@ _More projects coming soon..._
 </a>
 
 <a href="https://www.zoho.com/" target="_blank" style="text-decoration: none; border: none;">
-<img width="100" height="100" style="max-width: 100%; height: 70px; margin-left:2px; width:170px ; max-height: 95px; border: none; alt="zoho-logo" src="https://github.com/user-attachments/assets/339dbc42-4bdb-42c5-9bed-88db7186e39d" />
+<img width="90" height="100" style="max-width: 100%; height: 70px; margin-left:2px; width:170px ; max-height: 95px; border: none; alt="zoho-logo" src="https://github.com/user-attachments/assets/339dbc42-4bdb-42c5-9bed-88db7186e39d" />
 </a>
 
 </div>
