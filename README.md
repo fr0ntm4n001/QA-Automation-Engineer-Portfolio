@@ -41,17 +41,7 @@ Furthermore, I am equipped with strong analytical skills, a solid understanding 
    - Conducted **performance testing** with **JMeter**, identifying bottlenecks in checkout flow.  
      [🔎 View Details](https://github.com/fr0ntm4n001/AI-Voice-Assistant-App-Full-Scope-QA)
 
-2. **API Testing**
-
-   - Automated **CRUD operations & error handling** using **Postman**.
-   - Designed **collections, assertions, and data-driven test cases** for API reliability.
-   - Ensured robustness of APIs (RESTful Booker demo).  
-     [🔎 View Details](projects/api-testing/)
-
-3. **Mobile App Testing** _(Optional)_
-   - Used **Appium** for UI/functional testing on a demo mobile app.
-   - Focused on usability, responsiveness, and cross-device compatibility.  
-     [🔎 View Details](projects/mobile-testing/)
+2. **More projects coming soon...**
 
 ---
 
