@@ -201,4 +201,4 @@ _More projects coming soon..._
 
 ## 📄 License
 
-MIT License. See [LICENSE](LICENSE) for details.
+Proprietary License. See [LICENSE](LICENSE) for details.
