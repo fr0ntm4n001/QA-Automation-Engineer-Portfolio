@@ -1,21 +1,52 @@
-MIT License
+Custom Portfolio License
 
-Copyright (c) 2025 fr0ntm4n001
+Copyright (c) 2025 Fahad S Satti
+LinkedIn: https://www.linkedin.com/in/fahad-s-satti-160355218/
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## Terms and Conditions
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+### 1. Portfolio Structure & Style (ALLOWED)
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+You are free to:
+
+- Use the portfolio structure, layout, and formatting as inspiration
+- Adapt the README template and organizational structure
+- Reference the project showcase format and documentation style
+- Use similar markdown formatting and presentation approach
+
+### 2. QA Work Content (PROTECTED - NOT ALLOWED)
+
+You may NOT copy, reproduce, or use:
+
+- Test cases, test plans, test strategies, and test documentation
+- Bug reports, test reports, and QA analysis
+- Automation scripts, test code, and configurations
+- Any actual QA work, methodologies, findings, or insights
+- Project-specific documentation and artifacts
+
+All QA work content showcased in this portfolio is the intellectual property
+of Fahad S Satti and represents original work created independently. This work
+does not contain any proprietary information from employers or clients.
+
+### 3. Attribution Requirements
+
+If you use the portfolio structure or style:
+
+- Provide clear attribution to Fahad S Satti
+- Include a link to the original repository: https://github.com/fr0ntm4n001/Portfolio
+- Do not claim the original design or concept as your own
+
+### 4. Disclaimer
+
+THE PORTFOLIO STRUCTURE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED. THE AUTHOR SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES,
+OR OTHER LIABILITY ARISING FROM THE USE OF THIS PORTFOLIO STRUCTURE.
+
+### 5. Contact
+
+For permissions beyond this license or questions:
+LinkedIn: https://www.linkedin.com/in/fahad-s-satti-160355218/
+
+---
+
+**Summary:** Use the style ✅ | Copy the content ❌
