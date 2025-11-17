@@ -202,7 +202,3 @@ _More projects coming soon..._
 ## 📄 License
 
 MIT License. See [LICENSE](LICENSE) for details.
-
----
-
-⚡ _This portfolio is continuously evolving as I expand my skills in test automation, CI/CD, and cybersecurity._
