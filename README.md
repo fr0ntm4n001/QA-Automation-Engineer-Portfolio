@@ -36,10 +36,11 @@ Furthermore, I am equipped with strong analytical skills, a solid understanding 
 
 1. **AI Voice Assistant App Full Scope QA**
 
-   - Automated **end-to-end UI flows** (login, checkout, error handling) using **Cypress**.
-   - Integrated tests into **CI/CD pipelines** for continuous feedback.
-   - Conducted **performance testing** with **JMeter**, identifying bottlenecks in checkout flow.  
-     [🔎 View Details](https://github.com/fr0ntm4n001/AI-Voice-Assistant-App-Full-Scope-QA)
+   - Comprehensive QA of AI Voice Assistant platform covering **manual testing**, **automated test execution**, and **performance benchmarking**.
+   - Automated **end-to-end UI flows** (login, assistants management, settings, dashboard) using **Playwright** with 97%+ test pass rate.
+   - Achieved **50% reduction** in manual testing time and **85% early bug detection** through systematic test automation.
+
+[🔎 View Details](https://github.com/fr0ntm4n001/AI-Voice-Assistant-App-Full-Scope-QA)
 
 ##
 
