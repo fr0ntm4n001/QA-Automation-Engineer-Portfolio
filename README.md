@@ -41,7 +41,7 @@ Furthermore, I am equipped with strong analytical skills, a solid understanding 
    - Conducted **performance testing** with **JMeter**, identifying bottlenecks in checkout flow.  
      [🔎 View Details](https://github.com/fr0ntm4n001/AI-Voice-Assistant-App-Full-Scope-QA)
 
-2. **More projects coming soon...**
+**More projects coming soon...**
 
 ---
 
