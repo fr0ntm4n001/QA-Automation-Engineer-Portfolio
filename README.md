@@ -23,6 +23,15 @@ Furthermore, I am equipped with strong analytical skills, a solid understanding 
 
 ---
 
+## 📂 How to Explore
+
+- Open each project folder to view detailed **READMEs, test cases, documentation, and workflows**.
+- Explore the **testing approach, methodology, and reasoning** behind each project.
+- Review **sample test reports, bug logs, and analysis summaries** to understand the quality of work.
+- No local setup is required — projects are showcase-only and focus on **process, thinking, and QA practices**.
+
+---
+
 ## 🚀 Projects
 
 1. **AI Voice Assistant App Full Scope QA**
@@ -177,13 +186,6 @@ Furthermore, I am equipped with strong analytical skills, a solid understanding 
 - 📝 Test Planning, Reporting & Documentation
 
 ---
-
-## 📂 How to Explore
-
-- Open each project folder to view detailed **READMEs, test cases, documentation, and workflows**.
-- Explore the **testing approach, methodology, and reasoning** behind each project.
-- Review **sample test reports, bug logs, and analysis summaries** to understand the quality of work.
-- No local setup is required — projects are showcase-only and focus on **process, thinking, and QA practices**.
 
 ## 📬 Contact
 
