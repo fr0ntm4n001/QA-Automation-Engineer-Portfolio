@@ -1,6 +1,6 @@
-# 🌟 SQA Engineer Portfolio
+# 🌟 Fahad's QA Portfolio
 
-Welcome to my Software Quality Assurance (SQA) portfolio!  
+Welcome to my Software Quality Assurance (SQA) portfolio!
 
 <p align="justify"">
 👋 I’m a detail-oriented <b>QA Engineer</b> , currently working as a Lead QA at DQ , with <b> 3 + years of hands-on experience </b> in both <b> manual </b>and <b>automation </b>testing of web and mobile applications. 
@@ -14,12 +14,11 @@ Furthermore, I am equipped with strong analytical skills, a solid understanding 
 ✨ This portfolio showcases practical projects that reflect my hands-on approach, problem-solving mindset, and commitment to delivering reliable software quality across web, API, and mobile applications.
 </p>
 
-
 ## 📌 Quick Links
 
+- [How to Explore](#-how-to-explore)
 - [Projects](#-projects)
 - [Skills Demonstrated](#%EF%B8%8F-skills-demonstrated)
-- [How to Explore](#-how-to-explore)
 - [Contact](#-contact)
 
 ---
@@ -65,8 +64,6 @@ Furthermore, I am equipped with strong analytical skills, a solid understanding 
          alt="ClickUp" 
          src="https://github.com/user-attachments/assets/1f43d4bc-d25f-49de-a7af-0c97fd2d7390" />
   </a>
-
-
 
   <a href="https://cypress.io/" target="_blank" style="text-decoration: none; border: none;">
     <img width="91" height="91" 
@@ -165,7 +162,6 @@ Furthermore, I am equipped with strong analytical skills, a solid understanding 
          style="max-width: 100%; height: 70px; width:140px ; max-height: 95px; border: none;"alt="jam.dev" src="https://github.com/user-attachments/assets/bd46f760-8e5c-469b-aecb-6cc7c4d42dc6" />
 </a>
 
-
 </div>
 
 <br>
@@ -184,9 +180,10 @@ Furthermore, I am equipped with strong analytical skills, a solid understanding 
 
 ## 📂 How to Explore
 
-- Navigate to each project folder for detailed **READMEs, test cases, documentation, workflow, and work ethics**.
-- Follow setup instructions to **run tests locally**.
-- Review **test reports & bug logs** for insights.
+- Open each project folder to view detailed **READMEs, test cases, documentation, and workflows**.
+- Explore the **testing approach, methodology, and reasoning** behind each project.
+- Review **sample test reports, bug logs, and analysis summaries** to understand the quality of work.
+- No local setup is required — projects are showcase-only and focus on **process, thinking, and QA practices**.
 
 ## 📬 Contact
 
