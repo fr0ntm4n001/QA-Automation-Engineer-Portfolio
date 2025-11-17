@@ -184,14 +184,14 @@ _More projects coming soon..._
 <div align="left">
   <!-- LinkedIn -->
    &nbsp;
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/fahad-s-satti-160355218/" target="_blank" rel="noopener noreferrer">
     <img width="auto" height="72" 
          alt="LinkedIn" 
          src="https://github.com/user-attachments/assets/be222ed3-fec6-4f0e-b14b-bf80d8978079" />
   </a>
   &nbsp;&nbsp;
   <!-- Gmail -->
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=your.email@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=workwithfahadsatti@gmail.com" target="_blank" rel="noopener noreferrer">
     <img width="auto" height="72" 
          alt="Gmail" 
          src="https://github.com/user-attachments/assets/3f1c7323-8a5b-4149-b35c-faccaccd22a6" />
