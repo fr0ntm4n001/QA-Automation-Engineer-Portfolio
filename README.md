@@ -170,12 +170,12 @@ _More projects coming soon..._
 **Testing Types & Practices:**
 
 - ✅ Functional Testing & Test Case Design
-- ⚡ Performance & Load Testing
-- 🔗 API Testing & Validation
-- 📱 Mobile App Testing (Optional)
-- 🔄 CI/CD Integration (Automated test execution in pipelines)
-- 🐞 Bug Reproduction with detailed logs
 - 📝 Test Planning, Reporting & Documentation
+- 🐞 Bug Reproduction with detailed logs
+- 🔗 API Testing & Validation
+- ⚡ Performance & Load Testing
+- 📱 Mobile App Testing
+- 🔄 CI/CD Integration (Automated test execution in pipelines)
 
 ---
 
