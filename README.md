@@ -164,7 +164,7 @@ _More projects coming soon..._
 </a>
 
 <a href="https://www.artillery.io/" target="_blank" style="text-decoration: none; border: none;">
-    <img width="91" height="91" 
+    <img width="100" height="100" 
          style="max-width: 100%; height: auto; max-height: 91px; border: none;" 
          alt="artillery" 
          src="Images/Artillery_logo.png" />
