@@ -57,110 +57,110 @@ _More projects coming soon..._
     <img width="91" height="91" 
          style="max-width: 100%; height: auto; max-height: 91px; border: none;" 
          alt="Bash" 
-         src="https://github.com/user-attachments/assets/8402f466-2d13-4691-8c0c-7340c1a193c6" />
+         src="Images/git_bash.png" />
   </a>
   <a href="https://clickup.com/" target="_blank" style="text-decoration: none; border: none;">
     <img width="91" height="91" 
          style="max-width: 100%; height: auto; max-height: 91px; border: none;" 
          alt="ClickUp" 
-         src="https://github.com/user-attachments/assets/1f43d4bc-d25f-49de-a7af-0c97fd2d7390" />
+         src="Images/click_up.png" />
   </a>
 
   <a href="https://cypress.io/" target="_blank" style="text-decoration: none; border: none;">
     <img width="91" height="91" 
          style="max-width: 100%; height: auto; max-height: 91px; border: none;" 
          alt="Cypress" 
-         src="https://github.com/user-attachments/assets/f7a82535-ef8e-469e-9910-6c11f22e3bae" />
+         src="Images/cypress.png" />
   </a>
   <a href="https://www.mysql.com/" target="_blank" style="text-decoration: none; border: none;">
     <img width="91" height="91" 
          style="max-width: 100%; height: auto; max-height: 91px; border: none;" 
          alt="SQL Database" 
-         src="https://github.com/user-attachments/assets/b5adb4d9-595e-470b-a5ad-5708f3af2644" />
+         src="Images/sql_database.png" />
   </a>
   <a href="https://www.docker.com/" target="_blank" style="text-decoration: none; border: none;">
     <img width="91" height="91" 
          style="max-width: 100%; height: auto; max-height: 91px; border: none;" 
          alt="Docker" 
-         src="https://github.com/user-attachments/assets/a3852854-7da9-448e-8235-db3eb31cb310" />
+         src="Images/docker.png" />
   </a>
   <a href="https://git-scm.com/" target="_blank" style="text-decoration: none; border: none;">
     <img width="91" height="91" 
          style="max-width: 100%; height: auto; max-height: 91px; border: none;" 
          alt="Git" 
-         src="https://github.com/user-attachments/assets/942882a9-57f1-40e4-9949-d52c25e916f3" />
+         src="Images/git.png" />
   </a>
   <a href="https://gitlab.com/" target="_blank" style="text-decoration: none; border: none;">
     <img width="91" height="91" 
          style="max-width: 100%; height: auto; max-height: 91px; border: none;" 
          alt="GitLab" 
-         src="https://github.com/user-attachments/assets/5f965ef5-025a-4477-a28c-dfe65cc79642" />
+         src="Images/git_lab.png" />
   </a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" style="text-decoration: none; border: none;">
     <img width="91" height="91" 
          style="max-width: 100%; height: auto; max-height: 91px; border: none;" 
          alt="Jira" 
-         src="https://github.com/user-attachments/assets/aabaf775-1c8d-46ba-a13e-2a07597a86be" />
+         src="Images/jira.png" />
   </a>
   <!-- Testing & Programming -->
   <a href="https://jmeter.apache.org/" target="_blank" style="text-decoration: none; border: none;">
     <img width="91" height="91" 
          style="max-width: 100%; height: auto; max-height: 91px; border: none;" 
          alt="jmeter" 
-         src="https://github.com/user-attachments/assets/e43d65da-79a8-46e9-839c-12f81883910f" />
+         src="Images/j_meter.png" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none; border: none;">
     <img width="91" height="91" 
          style="max-width: 100%; height: auto; max-height: 91px; border: none;" 
          alt="JavaScript" 
-         src="https://github.com/user-attachments/assets/c6ce71c8-1d1e-457c-832a-6d727c4ea05c" />
+         src="Images/js.png" />
   </a>
   <a href="https://www.npmjs.com/" target="_blank" style="text-decoration: none; border: none;">
     <img width="91" height="91" 
          style="max-width: 100%; height: auto; max-height: 91px; border: none;" 
          alt="npmjs" 
-         src="https://github.com/user-attachments/assets/6042ebbd-119e-49b2-a13c-8d9a029d4646" />
+         src="Images/npm.png" />
   </a>
   <a href="https://playwright.dev/" target="_blank" style="text-decoration: none; border: none;">
     <img width="91" height="91" 
          style="max-width: 100%; height: auto; max-height: 91px; border: none;" 
          alt="Playwright" 
-         src="https://github.com/user-attachments/assets/59e030a2-8d11-46ca-84b1-6eef5bc25c02" />
+         src="Images/playwright.png" />
   </a>
   <a href="https://www.postman.com/" target="_blank" style="text-decoration: none; border: none;">
     <img width="91" height="91" 
          style="max-width: 100%; height: auto; max-height: 91px; border: none;" 
          alt="Postman" 
-         src="https://github.com/user-attachments/assets/0e214fb4-9210-4741-922b-2a19cc81191b" />
+         src="Images/postman.png" />
   </a>
   <a href="https://selenium.dev/" target="_blank" style="text-decoration: none; border: none;">
     <img width="91" height="91" 
          style="max-width: 100%; height: auto; max-height: 91px; border: none;" 
          alt="Selenium" 
-         src="https://github.com/user-attachments/assets/2f386946-93cc-4b96-88df-b6848025278d" />
+         src="Images/selenium.png" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" style="text-decoration: none; border: none;">
     <img width="91" height="91" 
          style="max-width: 100%; height: auto; max-height: 91px; border: none;" 
          alt="VS Code" 
-         src="https://github.com/user-attachments/assets/84f74866-4048-45e0-8c09-77a225e88929" />
+         src="Images/vs_code.png" />
   </a>
   <a href="https://chat.openai.com/" target="_blank" style="text-decoration: none; border: none;">
     <img width="91" height="91" 
          style="max-width: 100%; height: auto; max-height: 91px; border: none;" 
          alt="ChatGPT" 
-         src="https://github.com/user-attachments/assets/53f63ae7-7f46-46e0-b2e1-cfd9a1c523da" />
+         src="Images/chat_gpt.png" />
   </a>
   <!-- Slack -->
   <a href="https://slack.com/" target="_blank" style="text-decoration: none; border: none;">
     <img width="100" height="100" 
          style="max-width: 100%; height: auto; max-height: 95px; border: none;" alt="Slack" 
-         src="https://github.com/user-attachments/assets/96a2f9ff-17c2-40c4-85f6-4e8bfb3065ab" />
+         src="Images/slack.png" />
   </a>
 
 <a href="https://jam.dev/" target="_blank" style="text-decoration: none; border: none;">
 <img width="100" height="100" 
-         style="max-width: 100%; height: 70px; width:140px ; max-height: 95px; border: none;"alt="jam.dev" src="https://github.com/user-attachments/assets/bd46f760-8e5c-469b-aecb-6cc7c4d42dc6" />
+         style="max-width: 100%; height: 70px; width:140px ; max-height: 95px; border: none;"alt="jam.dev" src="Images/jam.png" />
 </a>
 
 </div>
@@ -187,14 +187,14 @@ _More projects coming soon..._
   <a href="https://www.linkedin.com/in/fahad-s-satti-160355218/" target="_blank" rel="noopener noreferrer">
     <img width="auto" height="72" 
          alt="LinkedIn" 
-         src="https://github.com/user-attachments/assets/be222ed3-fec6-4f0e-b14b-bf80d8978079" />
+         src="Images/linkedin_logo.png" />
   </a>
   &nbsp;&nbsp;
   <!-- Gmail -->
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=workwithfahadsatti@gmail.com" target="_blank" rel="noopener noreferrer">
     <img width="auto" height="72" 
          alt="Gmail" 
-         src="https://github.com/user-attachments/assets/3f1c7323-8a5b-4149-b35c-faccaccd22a6" />
+         src="Images/gmail_logo.png" />
   </a>
 
 </div>
