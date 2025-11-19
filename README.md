@@ -167,7 +167,7 @@ _More projects coming soon..._
     <img width="91" height="91" 
          style="max-width: 100%; height: auto; max-height: 91px; border: none;" 
          alt="artillery" 
-         src="Images/Artillery.png" />
+         src="Images/Artillery_logo.png" />
   </a>
 
 </div>
