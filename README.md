@@ -3,7 +3,7 @@
 Welcome to my Software Quality Assurance (SQA) portfolio!
 
 <p align="justify"">
-👋 I’m a detail-oriented <b>QA Engineer</b> , currently working as a SQA Automation Engineer at DQ , with <b> 2.5 + years of hands-on experience </b> in both <b> manual </b>and <b>automation </b>testing of web and mobile applications. 
+👋 I’m a detail-oriented <b>QA Engineer</b> , currently working as a SQA Automation Engineer at DataQuartz , with <b> 2.5 + years of hands-on experience </b> in both <b> manual </b>and <b>automation </b>testing of web and mobile applications. 
 <p align="justify"">   
 Skilled in designing test strategies, writing comprehensive test cases,documenting detailed bug reports and executing automated tests to validate functionality, performance, and reliability using industry-standard tools (Playwright / Cypress / Selenium). Proficient in testing RESTful APIs with Postman and experienced in integrating automated tests into CI/CD pipelines using GitLab CI and GitHub Actions, leveraging DevOps practices and close collaboration with DevOps teams to streamline CI/CD processes.  
 </p>
